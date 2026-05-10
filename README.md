@@ -25,9 +25,9 @@ I'm a CS student from London, Ontario 🇨🇦.
 
 ## 💬 Ask Me About
 
+- Starting a CS journey
 - Roblox Studio & Luau scripting
 - Game dev as a solo developer
-- Starting a CS journey from scratch
 
 ***
 
