@@ -1,16 +1,40 @@
-## Hi I'm Me
+# Hi, I'm Mayar Al Jawhary 👋
 
-<!--
-**mayaralj/mayaralj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student from London, Ontario 🇨🇦.  
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I've Built
+
+- **Zombest** — solo-built multiplayer zombie survival game in Roblox Studio
+  - 35,000+ lines of Luau across 120+ scripts
+  - Custom zombie AI, bullet physics, client-server architecture
+  - Original VFX, animations, and UI — all made independently
+- **2D Fighter** — built in C with Raylib
+- **2D Top-Down Zombie Shooter** — built in C++ with Raylib
+
+***
+
+## 🌱 Currently Learning
+
+- Data structures & algorithms
+- Scalable systems
+- Git & version control best practices
+
+***
+
+## 💬 Ask Me About
+
+- Roblox Studio & Luau scripting
+- Game dev as a solo developer
+- Starting a CS journey from scratch
+
+***
+
+## 📬 Contact
+
+- 📧 [Mayar2006.m6@gmail.com](mailto:Mayar2006.m6@gmail.com)
+- 💼 [linkedin.com/in/mayar-al-jawhary-9b6497390](https://www.linkedin.com/in/mayar-al-jawhary-9b6497390/)
+- 🎮 [Roblox Profile](https://www.roblox.com/users/1244545245/profile)
+
+***
