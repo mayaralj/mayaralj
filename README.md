@@ -58,4 +58,4 @@ Competitive multiplayer coding elimination game — submit wrong or slow and you
 - 📧 [Mayar2006.m6@gmail.com](mailto:Mayar2006.m6@gmail.com)
 - 💼 [linkedin.com/in/mayaralj](https://www.linkedin.com/in/mayaralj/)
 - 🎮 [Roblox Profile](https://www.roblox.com/users/1244545245/profile)
-- 📄 [Resume]()
+- 📄 [Resume](https://github.com/mayaralj/resume/blob/main/mayaralj-resume.pdf)
