@@ -34,7 +34,7 @@ Solo-built from the ground up. Custom zombie AI, bullet systems, ragdoll systems
 ## 🔭 Planning to Build
 
 ### 🖥️ Code Chamber
-Competitive multiplayer coding elimination game — submit wrong or slow and you're out.  
+Competitive multiplayer coding elimination game. Submit wrong or slow and you're out.  
 `React` · `Node.js` · `Socket.io` · `PostgreSQL` · `Redis` · `Judge0`
 
 ---
