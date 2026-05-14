@@ -20,14 +20,18 @@ CS student @ UWO · London, Ontario 🇨🇦 · building software and games
 ---
 
 ## 🔨 What I've Built
-
-### 💀 Zombest — Roblox multiplayer zombie survival
+### 💀 [Zombest](https://github.com/mayaralj/Zombest) — Roblox multiplayer zombie survival
 Solo-built from the ground up. Custom zombie AI, bullet systems, ragdoll systems, client/server architecture, and original Animation, VFX & UI.
 - **35,000+ lines of Luau** across **120+ scripts**
 - Modular architecture, wave logic, knock/revive system, TAB scoreboard, round state machine
 
-### ⚔️ 2D Fighter — C and Raylib
-### 🔫 2D Top-Down Zombie Shooter — C++ and Raylib
+### ⚔️ [Geometry Fighters](https://github.com/mayaralj/geometry-fighters) — 2D Fighter · C and Raylib
+- Complete fighting game with combos, aerial attacks, dashing, double jump, fast-falling, and evasive dodge
+- Custom collision hitboxes, frame delta-time cooldowns, and a best-of-3 round system
+
+### 🔫 [Top-Down Zombie Shooter](https://github.com/mayaralj/top-down-zombie-raylib) — 2D Shooter · C++ and Raylib
+- Full player system, 5 weapons with distinct mechanics, reloading, recoil, perks, quests, and local co-op
+- Built complete points economy. Players earn points from kills to purchase weapons and perks scattered across the map
 
 ---
 
@@ -57,5 +61,5 @@ Competitive multiplayer coding elimination game. Submit wrong or slow and you're
 ## 📬 Reach Me
 - 📧 [Mayar2006.m6@gmail.com](mailto:Mayar2006.m6@gmail.com)
 - 💼 [linkedin.com/in/mayaralj](https://www.linkedin.com/in/mayaralj/)
-- 🎮 [Roblox Profile](https://www.roblox.com/users/1244545245/profile)
 - 📄 [Resume](https://github.com/mayaralj/resume/blob/main/mayaralj-resume.pdf)
+- 🎮 [Roblox Profile](https://www.roblox.com/users/1244545245/profile)
