@@ -1,65 +1,125 @@
-# Hi, I'm Mayar Al Jawhary 👋
-CS student @ UWO · London, Ontario 🇨🇦 · building software and games
+<div align="center">
+
+# Mayar Al Jawhary
+
+**Computer Science @ Western University**
+
+Building full-stack applications, real-time systems, networked softwre, and games.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayaralj-0b0b0b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayaralj)
+[![Email](https://img.shields.io/badge/Email-mayar.aljwh%40gmail.com-0b0b0b?style=flat-square&logo=gmail&logoColor=white)](mailto:mayar.aljwh@gmail.com)
+
+</div>
 
 ---
 
-### 🗣️ Languages
-![Lua](https://img.shields.io/badge/Lua%20%2F%20Luau-purple?style=flat-square)
-![C](https://img.shields.io/badge/C-blue?style=flat-square)
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-green?style=flat-square)
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-teal?style=flat-square)
-![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-gray?style=flat-square)
+## About
 
-### 🛠️ Tools & Frameworks
-![React](https://img.shields.io/badge/React-teal?style=flat-square)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-red?style=flat-square)
-![Git](https://img.shields.io/badge/Git-gray?style=flat-square)
+I'm a third-year Computer Science student at Western University pursuing an
+Honours Specialization in Computer Science with a Minor in Software Engineering.
+
+I enjoy building complete systems and understanding what happens beneath the
+surface — from real-time web applications and backend infrastructure to
+multiplayer games, networking, and performance-heavy systems.
+
+Currently seeking **Summer 2027 internship opportunities** across software
+development and related areas of computer science.
 
 ---
 
-## 🔨 What I've Built
-### 💀 [Zombest](https://github.com/mayaralj/Zombest) — Roblox multiplayer zombie survival
-Solo-built from the ground up. Custom zombie AI, bullet systems, ragdoll systems, client/server architecture, and original Animation, VFX & UI.
-- **35,000+ lines of Luau** across **120+ scripts**
-- Modular architecture, wave logic, knock/revive system, TAB scoreboard, round state machine
+## Selected Work
 
-### ⚔️ [Geometry Fighters](https://github.com/mayaralj/geometry-fighters) — 2D Fighter · C and Raylib
-- Complete fighting game with combos, aerial attacks, dashing, double jump, fast-falling, and evasive dodge
-- Custom collision hitboxes, frame delta-time cooldowns, and a best-of-3 round system
+### [Code Chamber](https://github.com/mayaralj/code-chamber)
 
-### 🔫 [Top-Down Zombie Shooter](https://github.com/mayaralj/top-down-zombie-raylib) — 2D Shooter · C++ and Raylib
-- Full player system, 5 weapons with distinct mechanics, reloading, recoil, perks, quests, and local co-op
-- Built complete points economy. Players earn points from kills to purchase weapons and perks scattered across the map
+**Real-time multiplayer coding elimination game**
 
----
+`React` · `Node.js` · `Express` · `Socket.IO` · `PostgreSQL` · `Docker`
 
-## 🔭 Planning to Build
+A full-stack multiplayer platform where players solve timed programming
+challenges in JavaScript, Python, or C++17 while competing through elimination
+rounds.
 
-### 🖥️ Code Chamber
-Competitive multiplayer coding elimination game. Submit wrong or slow and you're out.  
-`React` · `Node.js` · `Socket.io` · `PostgreSQL` · `Redis` · `Judge0`
+I built the real-time game architecture, authentication, profiles,
+leaderboards, match history, reconnection system, and a Docker-based judging
+environment for safely compiling and executing player submissions.
 
----
+The backend is self-hosted on Ubuntu and exposed through Cloudflare Tunnel,
+with PostgreSQL used for persistent application data.
 
-## 📈 Currently Working On
-- Data structures and algorithms — grinding LeetCode problems
-- Full-stack development — React, Node.js, PostgreSQL, REST APIs
-- Scalable system design — distributed systems, caching, real-time architecture
-- Wrapping up Zombest — polishing and bug fixes
+[**Repository →**](https://github.com/mayaralj/code-chamber)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[**Live Site →**](https://codechamber.dev)
 
 ---
 
-## 💬 Ask Me About
-- Roblox Studio & Luau — architecture, netcode, game systems
-- Solo game dev — what's actually hard and how to push through it
-- Getting started in CS — what helped, what didn't
+### [Zombest](https://github.com/mayaralj/Zombest)
+
+**Multiplayer zombie survival game built from the ground up in Luau**
+
+`Luau` · `Roblox Studio` · `Rojo`
+
+A solo-developed multiplayer game with approximately **36,000 lines of Luau
+across 131 scripts**, including custom systems for zombie AI, networking,
+combat, weapons, movement, camera control, UI, VFX, and persistent leaderboards.
+
+The game supports **200+ simultaneous zombies** using lightweight custom
+controllers, packed 10-byte zombie updates, client-side interpolation,
+staggered pathfinding, object pooling, and server-authoritative combat.
+
+[**Repository →**](https://github.com/mayaralj/Zombest)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[**Play →**](https://www.roblox.com/games/126463617374732/Zombest)
 
 ---
 
-## 📬 Reach Me
-- 📧 [Mayar2006.m6@gmail.com](mailto:Mayar2006.m6@gmail.com)
-- 💼 [linkedin.com/in/mayaralj](https://www.linkedin.com/in/mayaralj/)
-- 📄 [Resume](https://github.com/mayaralj/resume/blob/main/mayaralj-resume.pdf)
-- 🎮 [Roblox Profile](https://www.roblox.com/users/1244545245/profile)
+## More Projects
+
+### [Top-Down Zombie Shooter](https://github.com/mayaralj/top-down-zombie-raylib)
+
+`C++` · `Raylib` · `OOP`
+
+Collaborative 2D zombie survival game with local multiplayer. I built the
+player systems, five-weapon system, perks, quests, points economy, collision
+handling, and HUD while working with another developer.
+
+### [Geometry Fighters](https://github.com/mayaralj/geometry-fighters)
+
+`C++` · `Raylib`
+
+Two-player 2D fighting game featuring combos, aerial and crouching attacks,
+dashing, double jumps, dodging, custom collision hitboxes, delta-time
+cooldowns, and best-of-three rounds.
+
+---
+
+## Technologies
+
+<div align="center">
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0b0b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0b0b0b?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0b0b0b?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-0b0b0b?style=flat-square&logo=c&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/Python-0b0b0b?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0b0b0b?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Luau](https://img.shields.io/badge/Luau-0b0b0b?style=flat-square&logo=lua&logoColor=00A2FF)
+![Bash](https://img.shields.io/badge/Bash-0b0b0b?style=flat-square&logo=gnubash&logoColor=white)
+
+### Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-0b0b0b?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0b0b0b?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0b0b0b?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0b0b0b?style=flat-square&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b0b?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0b0b0b?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0b0b0b?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0b0b0b?style=flat-square&logo=git&logoColor=F05032)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0b0b0b?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0b0b0b?style=flat-square&logo=robloxstudio&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-0b0b0b?style=flat-square)
+![Rojo](https://img.shields.io/badge/Rojo-0b0b0b?style=flat-square)
+
+</div>
