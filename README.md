@@ -19,8 +19,11 @@ I'm a third-year Computer Science student at Western University pursuing an
 Honours Specialization in Computer Science with a Minor in Software Engineering.
 
 I enjoy building complete systems and understanding what happens beneath the
-surface — from real-time web applications and backend infrastructure to
+surface, from real-time web applications and backend infrastructure to
 multiplayer games, networking, and performance-heavy systems.
+
+I'm currently exploring lower-level programming and systems programming to 
+learn more about how software interacts with the hardware and operating systems.
 
 Currently seeking **Summer 2027 internship opportunities** across software
 development and related areas of computer science.
