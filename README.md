@@ -4,7 +4,7 @@
 
 **Computer Science @ Western University**
 
-Building full-stack applications, real-time systems, networked softwre, and games.
+Building full-stack applications, real-time systems, networked software, and games.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mayaralj-0b0b0b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayaralj)
 [![Email](https://img.shields.io/badge/Email-mayar.aljwh%40gmail.com-0b0b0b?style=flat-square&logo=gmail&logoColor=white)](mailto:mayar.aljwh@gmail.com)
