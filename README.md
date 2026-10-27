@@ -123,6 +123,5 @@ cooldowns, and best-of-three rounds.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0b0b0b?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0b0b0b?style=flat-square&logo=robloxstudio&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-0b0b0b?style=flat-square)
-![Rojo](https://img.shields.io/badge/Rojo-0b0b0b?style=flat-square)
 
 </div>
